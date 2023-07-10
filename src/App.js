@@ -35,7 +35,7 @@ function App() {
         </a>
         <span className='title'>{item.title}</span>
         </div>
-      </div>)}
+      </div>)} 
     </div>
   );
 }
